@@ -1,3 +1,4 @@
+
 # Proyecto de Ejemplo
 
 ¡Hola! Bienvenidos a mi proyecto de ejemplo.
@@ -14,6 +15,14 @@ Este es un repositorio de prueba para demostrar cómo crear y estructurar un pro
 1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git`
 2. Navega a la carpeta del proyecto: `cd tu_proyecto`
 3. ¡Empieza a explorar y contribuir!
+
+## Tabla de Información
+
+| Column1       | Column2       | Column3       |
+|---------------|---------------|---------------|
+| Data1         | Data2         | Data3         |
+| Data4         | Data5         | Data6         |
+| Data7         | Data8         | Data9         |
 
 ## Contribuir
 
